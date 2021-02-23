@@ -48,7 +48,7 @@ body {
     background-color: #ffffff;
     width: 100%;
     padding: 1.3rem 0;
-    border: 1px solid lightgray;
+    border: 1px transparent lightgray;
 }
 
 .group:nth-child(1) {
@@ -105,19 +105,19 @@ body {
 }
 
 .app-download {
-    height: 4rem;
-    width: 12rem;
+    height: 3rem;
+    width: 10rem;
     background-size: cover;
 }
 
 .app-download:nth-child(1) {
-    background-image: url('./img/App-Store-Button.png');
-    height: 4rem;
+    background-image: url('./img/Google-App-Button.png');
+    height: 3rem;
 }
 
 .app-download:nth-child(2) {
-    background-image: url('./img/Google-App-Button.png');
-    height: 3.5rem;
+    background-image: url('./img/App-Store-Button.png');
+    height: 3.3rem;
 }
 
 
