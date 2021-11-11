@@ -48,7 +48,8 @@ body {
     background-color: #ffffff;
     width: 100%;
     padding: 1.3rem 0;
-    border: 1px transparent lightgray;
+    border: 1px solid lightgray;
+    box-sizing: content-box;
 }
 
 .group:nth-child(1) {
@@ -111,18 +112,18 @@ body {
 }
 
 .app-download:nth-child(1) {
-    background-image: url('./img/Google-App-Button.png');
+    background-image: url('./Img/Google-App-Button.png');
     height: 3rem;
 }
 
 .app-download:nth-child(2) {
-    background-image: url('./img/App-Store-Button.png');
+    background-image: url('./Img/App-Store-Button.png');
     height: 3.3rem;
 }
 
 
 .profile-photo img {
-    height: 6rem;
+    height: 15rem;
 }
 
 
