@@ -2,7 +2,7 @@
 
  ## Sobre o projeto
 
- Projeto criado no Bootcamp HTML Web Developer com os conceitos básicos de desenvolvimento. O projeto é responsivo e representa um clone da página inicial do Instagram, é meramente ilustrativo, não possui interatividade.
+ Projeto criado no Bootcamp HTML Web Developer com os conceitos iniciais de desenvolvimento. O projeto é responsivo e representa um clone da página de login do Instagram, é meramente ilustrativo, não possui interatividade.
  ## Tecnologias Utilizadas:
  
  HTML
