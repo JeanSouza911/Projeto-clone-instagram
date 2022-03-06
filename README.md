@@ -11,7 +11,7 @@
 
  ## Layout
 
- ![Web](Projeto-clone-instagram/Img/projeto.png)
+ ![Web](https://github.com/JeanSouza911/Projeto-clone-instagram/tree/master/Img/projeto.png)
 
  # Autor
 
