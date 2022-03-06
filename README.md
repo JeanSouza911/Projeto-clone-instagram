@@ -1,6 +1,6 @@
  # Projeto-clone-instagram
 
- ## Sobre o projeto
+ ## Sobre o projeto:
 
  Projeto criado no Bootcamp HTML Web Developer com os conceitos iniciais de desenvolvimento. O projeto é responsivo e representa um clone da página de login do Instagram, é meramente ilustrativo, não possui interatividade.
  ## Tecnologias Utilizadas:
@@ -9,11 +9,11 @@
  
  CSS
 
- ## Layout
+ ## Layout:
 
- ![Web](https://github.com/JeanSouza911/Projeto-clone-instagram/tree/master/Img/projeto.png)
+ ![Web](https://github.com/JeanSouza911/Projeto-clone-instagram/blob/master/Img/projeto.png)
 
- # Autor
+ # Autor:
 
  Jean Souza
 
