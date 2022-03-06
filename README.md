@@ -11,7 +11,7 @@
 
  ## Layout
 
- ![Web](img/perfil.png)
+ ![Web](Projeto-clone-instagram/Img/projeto.png)
 
  # Autor
 
